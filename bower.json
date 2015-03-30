@@ -6,6 +6,7 @@
     "d3": "~3.5.5",
     "Chart.js": "~1.0.2",
     "bootstrap-sass-official": "~3.3.4",
-    "leaflet": "~0.7.3"
+    "leaflet": "~0.7.3",
+    "doT": "~1.0.1"
   }
 }
