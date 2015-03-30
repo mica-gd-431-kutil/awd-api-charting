@@ -1,0 +1,11 @@
+{
+  "name": "awd-api-charting",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "d3": "~3.5.5",
+    "Chart.js": "~1.0.2",
+    "bootstrap-sass-official": "~3.3.4",
+    "color-thief": "*"
+  }
+}
